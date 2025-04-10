@@ -1,11 +1,11 @@
-#Diabetic Retinopathy Detection 🩺🧠
+# Diabetic Retinopathy Detection 🩺🧠
 
 This repository provides a deep learning-based solution for the early detection of **Diabetic Retinopathy (DR)** using retinal fundus images. 
 Diabetic Retinopathy is a complication of diabetes that affects the eyes and can lead to blindness if not detected and treated in time. 
 Automated systems for DR detection can support ophthalmologists in identifying the disease at an early stage, improving the chances of timely intervention.
 
 
-##Dataset: DIARETDB1
+## Dataset: DIARETDB1
 
 The project uses the DIARETDB1 dataset, a publicly available benchmark dataset for evaluating diabetic retinopathy detection methods.
 This dataset consists of high-resolution fundus images labeled by experts to indicate the presence and severity of diabetic retinopathy features 
@@ -16,7 +16,7 @@ such as microaneurysms, hemorrhages, and exudates.
 - Labels: Normal and Abnormal cases
 
 
-##File Overview
+## File Overview
 
 1. train-and-save-model.py
 
@@ -33,4 +33,4 @@ This script handles the training, evaluation, and saving of a deep learning mode
    To run the front end, execute the following command on command prompt: streamlit run app.py
 
 
-##Contributors: Anushka Bhaik - Developer & Researcher
+## Contributors: Anushka Bhaik - Developer & Researcher
